@@ -1,0 +1,50 @@
+::selection {
+    background-color: orangered;
+    color: white;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+}
+
+h5 {
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:link {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    text-decoration: underline;
+}
+
+ a:visited {
+    font-family: 'Courier New', Courier, monospace;
+     color: red;
+      text-decoration: underline;
+ }
+
+
+
+a:hover {
+
+    font-family: 'Courier New', Courier, monospace;
+     color: white;
+     background-color: orange;
+     text-decoration: none;
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
